@@ -6,5 +6,6 @@
   <component name="EditorSettings">
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
   </component>
 </application>
