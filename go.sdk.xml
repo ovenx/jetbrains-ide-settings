@@ -1,9 +1,0 @@
-<application>
-  <component name="GoSdkList">
-    <sdk-path>
-      <set>
-        <option value="E:\Dropbox\Apps\go" />
-      </set>
-    </sdk-path>
-  </component>
-</application>
