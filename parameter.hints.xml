@@ -1,8 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <disabledLanguages>
-      <language id="JavaScript" />
-      <language id="go" />
-    </disabledLanguages>
-  </component>
-</application>
